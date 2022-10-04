@@ -1,0 +1,8 @@
+.border-box {
+    border: 1px;
+    border-style: solid;
+    border-color: black;
+    margin: 1rem;
+    padding: 1em;
+}
+
